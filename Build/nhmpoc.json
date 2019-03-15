@@ -1,0 +1,13 @@
+{
+"companyName": "VirtualTour",
+"productName": "NationalHistoryMesuem",
+"dataUrl": "nhmpoc.data.unityweb",
+"wasmCodeUrl": "nhmpoc.wasm.code.unityweb",
+"wasmFrameworkUrl": "nhmpoc.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#4D75B3",
+"cacheControl": {"default": "must-revalidate"}
+}
